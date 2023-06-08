@@ -1,1 +1,1 @@
-learning software engineering @ alx is fun
+describing what each script is doing
